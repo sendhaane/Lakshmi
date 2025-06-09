@@ -25,7 +25,7 @@ The **Smart Waste Management System** is an AI and IoT-powered platform that opt
 
   ## System Architecture
   
-  ![Flow chart of the Smart Waste Management System](/flowchart(1).jpg)
+  ![Flow chart of the Smart Waste Management System](/flowchart (1).jpg)
 
 ## Technology Stack
 -**Intel oneAPI:** For performance optimizations and parallel processing.
